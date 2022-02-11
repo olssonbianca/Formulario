@@ -6,8 +6,8 @@
     list-style: none;
 }
 body{
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: rgb(2,0,36);
+    background: linear-gradient(-20deg, rgba(2,0,36,1) 0%, rgba(59,93,107,1) 45%, rgba(0,212,255,1) 90%);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 3%;
@@ -95,5 +95,4 @@ textarea:focus{
         flex-direction: column;
         align-items: flex-start;
     }
-
 }
